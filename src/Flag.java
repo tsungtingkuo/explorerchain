@@ -1,0 +1,10 @@
+public enum Flag {
+  UNKNOWN,
+  INITIALIZE,
+  UPDATE,
+  EVALUATE,
+  TRANSFER,
+  CONSENSUS,
+  TEST,
+  CLEAR
+}

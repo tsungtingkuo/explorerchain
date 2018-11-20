@@ -1,0 +1,13 @@
+dbmi-chain
+15eXjaRFXUFtn2vD8DjkmFFXcwKQkxUaZ5vZMH
+20
+2
+2
+UCSD-Site-1
+./data/edin_train_1.txt
+./data/edin_test_1.txt
+1000
+5000
+10
+false
+

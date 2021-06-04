@@ -27,7 +27,7 @@ Internet connection is needed for downloading required components.
 
 1. Prerequisites
    * Ubuntu (64-bit 14.04 with superuser privilege)
-   * Matlab (R2014a for Linux Command Line Interface)
+   * Matlab (R2014a for Linux Command Line Interface, with Statistics Toolbox 9.0)
    * Java (1.8 or later)
 2. Libraries
    * [JSON.simple v1.1.1](https://code.google.com/archive/p/json-simple/)

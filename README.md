@@ -73,7 +73,7 @@ To run ExplorerChain, open 3 terminal windows with superuser privilege and switc
 
 3. Terminal 3: ExplorerChain Site 2
 
-   * Edit "conf/config_2.txt", and replace the address in the second row with the copied address
+   * Edit "conf/config_2.txt", and replace the address in the second row with the same copied address like the one used in ExplorerChain Site 1
 
    * Run the following command to test ExplorerChain on Edin data at Site 2:
 
